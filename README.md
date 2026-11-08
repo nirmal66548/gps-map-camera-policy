@@ -1,5 +1,3 @@
-# gps-map-camera-policy
-
 # Privacy Policy for GPS Map Camera
 
 **Effective Date:** November 8, 2026
